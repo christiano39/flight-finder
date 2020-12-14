@@ -1,5 +1,5 @@
 {
-  "name": "be-node-template",
+  "name": "flight-finder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christiano39/be-node-template.git"
+    "url": "git+https://github.com/christiano39/flight-finder.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/christiano39/be-node-template/issues"
+    "url": "https://github.com/christiano39/flight-finder/issues"
   },
-  "homepage": "https://github.com/christiano39/be-node-template#readme",
+  "homepage": "https://github.com/christiano39/flight-finder#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
